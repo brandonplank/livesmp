@@ -1,0 +1,3 @@
+[submodule "src/main/java/org/crypticplank/exterior"]
+	path = src/main/java/org/crypticplank/exterior
+	url = https://github.com/crypticplank/Exterior
